@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Javascripting", "Javascripting\Javascripting.csproj", "{C90890E1-AD80-4D0D-B387-2FC074B1FDD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EFE2FF95-C547-41C0-92F0-E970619A38E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C90890E1-AD80-4D0D-B387-2FC074B1FDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90890E1-AD80-4D0D-B387-2FC074B1FDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90890E1-AD80-4D0D-B387-2FC074B1FDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE2FF95-C547-41C0-92F0-E970619A38E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE2FF95-C547-41C0-92F0-E970619A38E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE2FF95-C547-41C0-92F0-E970619A38E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE2FF95-C547-41C0-92F0-E970619A38E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
